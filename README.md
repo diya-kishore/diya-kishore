@@ -1,4 +1,4 @@
-<h1 align="center">I am Diya Kishore</h1>
+<h1 align="center">  Diya Kishore</h1>
 <h3 align="center">Aspiring Software Engineer 💻 | Passionate about Web Development 🌐 and Machine Learning 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya-kishore&label=Profile%20views&color=0e75b6&style=flat" alt="diya-kishore" /> </p>
