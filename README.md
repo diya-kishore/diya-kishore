@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya-kishore&show_icons=true&locale=en" alt="diya-kishore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diya-kishore&" alt="diya-kishore" /></p>
+
+https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp
