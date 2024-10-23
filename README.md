@@ -32,6 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diya-kishore&" alt="diya-kishore" /></p>
 
-![image](https://github.com/user-attachments/assets/5665e5e9-ad5c-4a54-955c-b5b75c3913d9)
 
 
